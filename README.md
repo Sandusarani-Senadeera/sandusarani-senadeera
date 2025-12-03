@@ -54,24 +54,7 @@
 
 ---
 
-<!-- ABOUT BADGES -->
-<h3>About Me</h3>
-<p>
-  <span style="display:inline-block;background:#0d47a1;color:#fff;border-radius:999px;padding:4px 12px;margin:2px;font-size:12px;">
-    💻 Full Stack Developer
-  </span>
-  <span style="display:inline-block;background:#004d40;color:#fff;border-radius:999px;padding:4px 12px;margin:2px;font-size:12px;">
-    📱 Mobile App Developer
-  </span>
-  <span style="display:inline-block;background:#4a148c;color:#fff;border-radius:999px;padding:4px 12px;margin:2px;font-size:12px;">
-    🎨 Loves Clean UI
-  </span>
-  <span style="display:inline-block;background:#bf360c;color:#fff;border-radius:999px;padding:4px 12px;margin:2px;font-size:12px;">
-    🌍 Open to Collaboration
-  </span>
-</p>
 
----
 
 <h3 align="left">Tech Stack & Tools</h3>
 
