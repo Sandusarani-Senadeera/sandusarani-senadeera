@@ -129,7 +129,7 @@
   <img src="https://streak-stats.demolab.com?user=sandusarani-senadeera&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br />
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandusarani-senadeera/sandusarani-senadeera/output/pacman-contribution-graph-dark.svg">
@@ -137,6 +137,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sandusarani-senadeera/sandusarani-senadeera/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 
 
 
