@@ -21,7 +21,7 @@
     🌱 I’m currently learning <b>Flutter</b> and <b>Spring Boot</b><br />
     📫 Reach me at:
     <a href="mailto:sandusaranisenadeera@gmail.com">sandusaranisenadeera@gmail.com</a><br />
-    ⚡ Fun fact: <b>sandu</b> 😄
+    ⚡ Fun fact: <b> everyone calls me Zara </b> 😄
   </p>
 
   <p>
@@ -101,6 +101,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
 </div>
+
+
 
 
 
