@@ -1,11 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img
-    src="https://github.com/sandusarani-senadeera.png"
-    alt="Sandusarani Senadeera"
-    width="150"
-    style="border-radius:50%;border:3px solid #00bcd4;"
-  />
+  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/af10d668-4389-475d-b153-44777d0ac186" />
 
   <h1>Hi 👋, I'm <span style="color:#00bcd4;">Sandusarani Senadeera</span></h1>
   <h3>A passionate Full Stack & Mobile App Developer from Sri Lanka</h3>
