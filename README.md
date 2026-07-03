@@ -6,10 +6,7 @@
   <h3>A passionate Full Stack, Mobile App & QA Automation Developer from Sri Lanka</h3>
 
   <p>
-    <img
-      src="https://komarev.com/ghpvc/?username=Sandusarani-Senadeera&label=Profile%20views&color=0e75b6&style=flat"
-      alt="Sandusarani-Senadeera"
-    />
+    <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8d43d1ce-63c1-4a3c-9f0e-865570ca63a8" />
   </p>
 
   <p>
