@@ -1,6 +1,4 @@
 <!-- HEADER -->
-<div align="center">
-  <img width="700" alt="Girl coding - Sandusarani Senadeera" src="./assets/girl-coding.png" />
 
   <h1>Hi 👋, I'm <span style="color:#00bcd4;">Sandusarani Senadeera</span></h1>
   <h3>A passionate Full Stack, Mobile App & QA Automation Developer from Sri Lanka</h3>
