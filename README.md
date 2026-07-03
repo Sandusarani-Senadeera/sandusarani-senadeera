@@ -3,7 +3,7 @@
 
   <!-- Banner Image -->
   <img
-    src="https://raw.githubusercontent.com/Sandusarani-Senadeera/sandusarani-senadeera/main/assets/girl-coding.png"
+    src="https://github.com/user-attachments/assets/9ef5d2a6-2f31-47f3-8e3c-5d740eb16efa"
     alt="Girl coding - Sandusarani Senadeera"
     width="700"
     style="border-radius: 12px; display: block; margin: 0 auto;"
